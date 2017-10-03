@@ -1,0 +1,50 @@
+img.logo{
+	max-height: 40px;
+}
+
+#image_bg{
+	background: url(../img/about_new.jpg) center no-repeat;
+}
+
+.bg-flex {
+    position: absolute;
+    padding: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    overflow: hidden;
+}
+
+.col-about-right {
+    padding-left: 60px;
+}
+
+#about_section{
+	padding: 0px 0px;
+}
+
+#content-div{
+	padding: 50px 0px 50px 50px;
+}
+
+#footer_image{
+	max-height: 40px;
+}
+
+select{
+    width: 100%;
+    background: #F5F7F9;
+    border-color: transparent;
+    padding: 10px 15px 11px;
+    color: #868A90;
+    border-radius: 4px;
+    font: 400 16px/26px "Lato", sans-serif;
+}
+
+#techmakerslogo{
+    max-height: 250px;
+}
+
+#techmakerstwo{
+    max-height: 50px;
+}
